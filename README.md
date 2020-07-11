@@ -15,8 +15,4 @@ And of course, as part of the AWS landscape, EKS is integrated with various AWS 
 
 
 
-# HOW TO LAUNCH THE REDMINE ON AWS?
-Let,s start the project
-First I have created the user with administration access  , this user have all the power same as admin .  But  , when multiple teams are working together then creating the user with administration access is not a good idea. 
 
-![Alt text](C:\Users\LENOVO PC\Desktop\EKS_IMG\1.jpg?raw=true "USER")
