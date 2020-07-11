@@ -10,3 +10,4 @@ With Amazon EKS, the Kubernetes control plane--including the backend persistence
 Organizations can choose to run EKS using AWS Fargate--a serverless compute engine for containers. With Fargate, there’s no longer a need to provision and manage servers; organizations can specify and pay for resources per application. Fargate, through application isolation by design, also improves security.
 
 And of course, as part of the AWS landscape, EKS is integrated with various AWS services, making it easy for organizations to scale and secure applications seamlessly. From AWS Identity Access Management (IAM) for authentication to Elastic Load Balancing for load distribution, the straightforwardness and convenience factor of using EKS can’t be understated.
+![alt text](https://d1.awsstatic.com/re19/FargateonEKS/Landing-Page-Diagram-EKS@2x.e7f23e44e4b460fc9f46d5f77a3a8d60807dc111.png)
