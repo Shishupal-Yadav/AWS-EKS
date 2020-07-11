@@ -1,8 +1,8 @@
-# AWS-EKS
+#AWS-EKS
 In this project I have launched the Redmine architecture on EKS Cluster , EKS is a service provided by AMAZON.
-# AMAZON ELASTIC KUBERNETES SERVICE ?
+#AMAZON ELASTIC KUBERNETES SERVICE ?
 Amazon EKS is a managed service that helps make it easier to run Kubernetes on AWS. Through EKS, organizations can run Kubernetes without installing and operating a Kubernetes control plane or worker nodes. Simply put, EKS is a managed containers-as-a-service (CaaS) that drastically simplifies Kubernetes deployment on AWS.
-# BENEFITS OF EKS
+#BENEFITS OF EKS
 Through EKS, normally cumbersome steps are done for you, like creating the Kubernetes master cluster, as well as configuring service discovery, Kubernetes primitives, and networking. Existing tools will more than likely work through EKS with minimal mods, if any.
 
 With Amazon EKS, the Kubernetes control plane--including the backend persistence layer and the API servers--is provisioned and scaled across various AWS availability zones, resulting in high availability and eliminating a single point of failure. Unhealthy control plane nodes are detected and replaced, and patching is provided for the control plane. The result is a resilient AWS-managed Kubernetes cluster that can withstand even the loss of an availability zone.
