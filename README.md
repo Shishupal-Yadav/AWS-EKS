@@ -13,7 +13,7 @@ Organizations can choose to run EKS using AWS Fargate--a serverless compute engi
 And of course, as part of the AWS landscape, EKS is integrated with various AWS services, making it easy for organizations to scale and secure applications seamlessly. From AWS Identity Access Management (IAM) for authentication to Elastic Load Balancing for load distribution, the straightforwardness and convenience factor of using EKS can’t be understated.
 
 
-# **For project refer to USER PDF Project folder**
+ **For project refer to USER PDF in Project folder**
 
 
 
